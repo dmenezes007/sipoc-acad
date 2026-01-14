@@ -2494,16 +2494,13 @@ export const SIPOC_DATA: SIPOCItem[] = [
     '- Despacho emitido de remessa dos créditos do INPI à Equipe Nacional de Cobrança - ENAC/AGU para inscrição em dívida ativa e cobrança extrajudicial e judicial.'
   ],
     suppliers: [
-    '– Unidades da PGF via SAPIENS  (sistema da AGU). Neste caso o preenchimento no SEI é feito pela própria PFE.
-
- - Setores do INPI (Sede e Regionais).  (geralmente consultas decorrentes de ofícios recebidos por eles em processos judiciais que o INPI não é parte).'
+    '– Unidades da PGF via SAPIENS (sistema da AGU). Neste caso o preenchimento no SEI é feito pela própria PFE.',
+    '- Setores do INPI (Sede e Regionais) (geralmente consultas decorrentes de ofícios recebidos por eles em processos judiciais que o INPI não é parte)'
   ],
     inputs: [
-    '- Documentos instrutórios do ato que se pretende atuar juridicamente
-
-- Formulação de consulta jurídica específica para assessoramento jurídico 
-
-- Documentos instrutórios para cobrança de crédito da autarquia'
+    '- Documentos instrutórios do ato que se pretende atuar juridicamente',
+    '- Formulação de consulta jurídica específica para assessoramento jurídico',
+    '- Documentos instrutórios para cobrança de crédito da autarquia'
   ],
     outputs: [
     '- Manifestações jurídicas conclusivas sobre matérias administrativas e propriedade intelectual emitidas',
