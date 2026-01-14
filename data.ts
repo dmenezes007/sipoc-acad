@@ -1413,7 +1413,7 @@ export const SIPOC_DATA: SIPOCItem[] = [
     tools: [
     'Sistemas Institucionais Integrados',
     'Intranet',
-    ''Portal da Gestão da Inovação (PGI)'
+    'Portal da Gestão da Inovação (PGI)'
   ],
     actors: [
     'Laboratório de Inovação',
