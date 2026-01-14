@@ -2508,19 +2508,15 @@ export const SIPOC_DATA: SIPOCItem[] = [
     '- Despacho emitido de remessa dos créditos do INPI à Equipe Nacional de Cobrança - ENAC/AGU para inscrição em dívida ativa e cobrança extrajudicial e judicial.'
   ],
     customers: [
-    '- Presidente do INPI
- - Setores do INPI (Sede e Regionais).'
+    '- Presidente do INPI',
+    '- Setores do INPI (Sede e Regionais)'
   ],
     tools: [
-    '- Sapiens
-
-- SEI      
-
-- E-mail
-
-- SINPI
-
-- Planilha de monitoramento de processos (prazos e responsáveis)'
+    '- Sapiens',
+    '- SEI',
+    '- E-mail',
+    '- SINPI',
+    '- Planilha de monitoramento de processos (prazos e responsáveis)'
   ],
     kpis: [
     '- Tempo médio de atendimento às demandas consultivas'
@@ -2545,18 +2541,15 @@ export const SIPOC_DATA: SIPOCItem[] = [
     '- Informações em defesa extra judicial (ofícios) fornecidas'
   ],
     suppliers: [
-    '- Unidades da PGF
- - Ministério Público por Ofícios via SEI
- - Juízo por Ofícios que chegam por meio dos setores do INPI demandados.'
+    '- Unidades da PGF',
+    '- Ministério Público por Ofícios via SEI',
+    '- Juízo por Ofícios que chegam por meio dos setores do INPI demandados'
   ],
     inputs: [
-    '- Ofícios do Ministério Público com solicitações técnicas para resposta em Juizo.
-
-- Ofícios de Juizo
-
-- Formulário de solicitação de reunião / audiências particulares (AGU)
-
-- Normas específicas da AGU, por exemplo:
+    '- Ofícios do Ministério Público com solicitações técnicas para resposta em Juizo',
+    '- Ofícios de Juizo',
+    '- Formulário de solicitação de reunião / audiências particulares (AGU)',
+    '- Normas específicas da AGU, por exemplo:
 Portaria Nº 656, de 11 DE outubro de 2013
 Portaria Nº 267 de 16 de março de 2009
 Portaria Nº 911 de 10 de dezembro de 2018.
@@ -2572,24 +2565,17 @@ Portaria Nº 911 de 10 de dezembro de 2018.
     '- Informações em defesa extra judicial (ofícios) fornecidas'
   ],
     customers: [
-    '- PGF/ AGU
-
- - Setores do INPI (Sede e Regionais). 
-
-- Orgãos de controle externo
-
-- Área técnica participante da reunião'
+    '- PGF/ AGU',
+    '- Setores do INPI (Sede e Regionais)',
+    '- Orgãos de controle externo',
+    '- Área técnica participante da reunião'
   ],
     tools: [
-    '- Sapiens
-
-- SEI      
-
-- E-mail
-
-- SINPI
-
-- Planilha de monitoramento de processos (prazos e responsáveis)'
+    '- Sapiens',
+    '- SEI',
+    '- E-mail',
+    '- SINPI',
+    '- Planilha de monitoramento de processos (prazos e responsáveis)'
   ],
     kpis: [],
     regulations: []
@@ -2637,30 +2623,30 @@ Portaria Nº 911 de 10 de dezembro de 2018.
     '- Planejamento Estratégico do INPI'
   ],
     outputs: [
-    ''- Plano Anual de Auditoria Interna (PAINT)  elaborado e divulgado
-- Relatório Anual de Atividades de Auditoria Interna (RAINT) elaborado e divulgado
-- Estatuto da AUDIT atualizado periodicamente
-- Relatório de Avaliação do Programa de Gestão e Melhoria da Qualidade (PGMQ) apresentado. 
-- Certificação do Nível do modelo IA-CM (Avaliação do PGMQ externa).
-- Planos de Trabalho expedidos'
+    '- Plano Anual de Auditoria Interna (PAINT) elaborado e divulgado',
+    '- Relatório Anual de Atividades de Auditoria Interna (RAINT) elaborado e divulgado',
+    '- Estatuto da AUDIT atualizado periodicamente',
+    '- Relatório de Avaliação do Programa de Gestão e Melhoria da Qualidade (PGMQ) apresentado',
+    '- Certificação do Nível do modelo IA-CM (Avaliação do PGMQ externa)',
+    '- Planos de Trabalho expedidos'
   ],
     customers: [
-    '- Equipe da AUDIT
-- CGU
- - TCU
- - Presidência  e Dirigentes do INPI
- - Gestores, servidores e colaboradores do INPI
- - Sociedade'
+    '- Equipe da AUDIT',
+    '- CGU',
+    '- TCU',
+    '- Presidência e Dirigentes do INPI',
+    '- Gestores, servidores e colaboradores do INPI',
+    '- Sociedade'
   ],
     tools: [
-    '- Legislação referenciada acima
-- Acesso ao e-CGU
-- Acesso ao Conecta TCU
-- Acesso ao SEI
-- Acesso ao Fala BR
-- Portal do INPI
-- Cadastro para receber alerta do ALICE
-- Acesso ao sistema e-Pessoal'
+    '- Legislação referenciada acima',
+    '- Acesso ao e-CGU',
+    '- Acesso ao Conecta TCU',
+    '- Acesso ao SEI',
+    '- Acesso ao Fala BR',
+    '- Portal do INPI',
+    '- Cadastro para receber alerta do ALICE',
+    '- Acesso ao sistema e-Pessoal'
   ],
     kpis: [],
     regulations: [
@@ -2682,55 +2668,44 @@ Portaria Nº 911 de 10 de dezembro de 2018.
     subprocess: 'Prestação de serviços de Avaliação',
     owner: 'AUDIT',
     products: [
-    '- Relatórios de Auditoria Interna emitidos contendo o resultado da avaliação realizada e, quando couber, recomendações.
-
-- Notas de Auditoria Interna emitidas contendo o resultado da avaliação realizada e recomendações',
+    '- Relatórios de Auditoria Interna emitidos contendo o resultado da avaliação realizada e, quando couber, recomendações',
+    '- Notas de Auditoria Interna emitidas contendo o resultado da avaliação realizada e recomendações',
     '- Notas Técnicas emitidas contendo o resultado da avaliação realizada',
-    'e
-
-- Pareceres de Auditoria Interna emitidos contendo o resultado da avaliação realizada.'
+    '- Pareceres de Auditoria Interna emitidos contendo o resultado da avaliação realizada'
   ],
     suppliers: [
-    '- Auditor-Chefe
-
-- CGU
-
-- TCU'
+    '- Auditor-Chefe',
+    '- CGU',
+    '- TCU'
   ],
     inputs: [
-    '-  Planos de Trabalho, Ofício* ou despachos expedidos com referência ao Plano Anual de Auditoria Interna (PAINT)  elaborado.
-
-- IN SFC n.° 8/2017: Manual de Orientações Técnicas da Atividade de Auditoria Interna Governamental do Poder Executivo Federal (MOT)
-
-- Alertas do sistema ALICE
-
-- Indícios constantes no e-Pessoal'
+    '- Planos de Trabalho, Ofício ou despachos expedidos com referência ao Plano Anual de Auditoria Interna (PAINT) elaborado',
+    '- IN SFC n.° 8/2017: Manual de Orientações Técnicas da Atividade de Auditoria Interna Governamental do Poder Executivo Federal (MOT)',
+    '- Alertas do sistema ALICE',
+    '- Indícios constantes no e-Pessoal'
   ],
     outputs: [
-    '- Relatórios de Auditoria Interna emitidos contendo o resultado da avaliação realizada e, quando couber, recomendações.
-
-- Notas de Auditoria Interna emitidas contendo o resultado da avaliação realizada e recomendações',
+    '- Relatórios de Auditoria Interna emitidos contendo o resultado da avaliação realizada e, quando couber, recomendações',
+    '- Notas de Auditoria Interna emitidas contendo o resultado da avaliação realizada e recomendações',
     '- Notas Técnicas emitidas contendo o resultado da avaliação realizada',
-    'e
-
-- Pareceres de Auditoria Interna emitidos contendo o resultado da avaliação realizada.'
+    '- Pareceres de Auditoria Interna emitidos contendo o resultado da avaliação realizada'
   ],
     customers: [
-    '- CGU
- - TCU
- - Presidência  e Dirigentes da unidade auditada do INPI
- - Gestores, servidores e colaboradores do INPI
- - Sociedade'
+    '- CGU',
+    '- TCU',
+    '- Presidência e Dirigentes da unidade auditada do INPI',
+    '- Gestores, servidores e colaboradores do INPI',
+    '- Sociedade'
   ],
     tools: [
-    '- Legislação referenciada acima
-- Acesso ao e-CGU
-- Acesso ao Conecta TCU
-- Acesso ao SEI
-- Acesso ao Fala BR
-- Portal do INPI
-- Cadastro para receber alerta do ALICE
-- Acesso ao sistema e-Pessoal'
+    '- Legislação referenciada acima',
+    '- Acesso ao e-CGU',
+    '- Acesso ao Conecta TCU',
+    '- Acesso ao SEI',
+    '- Acesso ao Fala BR',
+    '- Portal do INPI',
+    '- Cadastro para receber alerta do ALICE',
+    '- Acesso ao sistema e-Pessoal'
   ],
     kpis: [],
     regulations: [
@@ -2768,14 +2743,14 @@ Portaria Nº 911 de 10 de dezembro de 2018.
     'Presidência e gestores do INPI'
   ],
     tools: [
-    '- Legislação referenciada acima
-- Acesso ao e-CGU
-- Acesso ao Conecta TCU
-- Acesso ao SEI
-- Acesso ao Fala BR
-- Portal do INPI
-- Cadastro para receber alerta do ALICE
-- Acesso ao sistema e-Pessoal'
+    '- Legislação referenciada acima',
+    '- Acesso ao e-CGU',
+    '- Acesso ao Conecta TCU',
+    '- Acesso ao SEI',
+    '- Acesso ao Fala BR',
+    '- Portal do INPI',
+    '- Cadastro para receber alerta do ALICE',
+    '- Acesso ao sistema e-Pessoal'
   ],
     kpis: [],
     regulations: [
@@ -2798,16 +2773,13 @@ Portaria Nº 911 de 10 de dezembro de 2018.
     '- Parecer de Auditoria Interna'
   ],
     suppliers: [
-    'Denunciantes internos e externos
-
-Auditor-Chefe'
+    'Denunciantes internos e externos',
+    'Auditor-Chefe'
   ],
     inputs: [
-    'Denúcias administrativas
-
-Comunicações de irregularidades
-
-Irregularidades identificadas pela AUDIT'
+    'Denúcias administrativas',
+    'Comunicações de irregularidades',
+    'Irregularidades identificadas pela AUDIT'
   ],
     outputs: [
     '- Relatórios de Auditoria Interna emitidos contendo o resultado da apuração e recomendações, quando couber',
@@ -2815,15 +2787,11 @@ Irregularidades identificadas pela AUDIT'
     '- Notas Técnicas emitidas contendo o resultado da apuração'
   ],
     customers: [
-    'AUDIT
-
-Denunciante
-
-PR/INPI             
-
-Òrgãos de Controle interno e externo
-
-Sociedade'
+    'AUDIT',
+    'Denunciante',
+    'PR/INPI',
+    'Òrgãos de Controle interno e externo',
+    'Sociedade'
   ],
     tools: [
     '- Legislação referenciada acima
