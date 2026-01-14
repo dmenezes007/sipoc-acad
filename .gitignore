@@ -1,0 +1,55 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+
+# Build output
+dist
+dist-ssr
+build
+
+# Environment variables
+*.local
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+.cache
+
+# Python (para scripts auxiliares)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Arquivos temporários de processamento
+temp_*.csv
+temp_*.json
+processed_*.json
+*.pyc

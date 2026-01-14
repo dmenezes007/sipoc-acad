@@ -1,0 +1,5 @@
+{
+  "name": "SIPOC ACAD",
+  "description": "Aplicação one-pager completa para visualização da matriz SIPOC da Academia de Propriedade Intelectual, Inovação e Desenvolvimento de Pessoas (ACAD) do INPI. Inclui processos finalísticos, de gestão e suporte, com layout Bento Grid e design minimalista.",
+  "requestFramePermissions": []
+}
